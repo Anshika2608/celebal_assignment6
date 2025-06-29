@@ -1,1 +1,1 @@
-depoloyed_url:https://celebal-assignment6.onrender.com
+deployed_url:https://celebal-assignment6.onrender.com
